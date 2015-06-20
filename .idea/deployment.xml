@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote Interpreter Host">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/testapp/raymond_movie_manager2" local="$PROJECT_DIR$" web="/testapp/raymond_movie_manager2" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
